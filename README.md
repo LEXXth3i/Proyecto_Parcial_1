@@ -1,7 +1,7 @@
 # Proyecto_Parcial_1
 Proyecto final: Evaluación predictiva de precipitaciones pluviales integrando datos de CONAGUA para clima/lluvia, radiación solar y contaminantes para analizar influencias a escala país.
 
-# 🌧️ Predicción de Precipitaciones en Nuevo León
+# 🌧️ Precipitaciones en Nuevo León
 
 ## 📝 Introducción
 Este proyecto integra datos de CONAGUA, radiación solar y contaminantes para predecir lluvia en 20 estaciones de Nuevo León. El objetivo es analizar cómo factores ambientales influyen en el clima regional.
